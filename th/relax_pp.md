@@ -1,5 +1,6 @@
 ---
 title: "Relax PP"
+reference_version: 43bf0bb736bd6c0987b9754d05b07bbe
 ---
 **osu!lumilous ตอนนี้มีการ Support สำหรับ Relax PP!** เราได้แบ่งกระดานคะแนนทั้งหมดในสองส่วนระหว่าง **Classic และ Relax**.
 

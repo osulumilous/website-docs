@@ -1,5 +1,6 @@
 ---
 title: "วิธีการเชื่อมต่อไปยัง osu!lumilous"
+reference_version: 4ca93a2ad6fb93512dd3c145314de23d
 old_id: 1
 ---
 - [สมัคร](https://osu.lumilous.pw/register) บัญชีก่อน  

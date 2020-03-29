@@ -1,5 +1,6 @@
 ---
 title: "เชื่อมต่อไปยับ osu!lumilous บนระบบ IRC"
+reference_version: 3665844157b5cc0e576c7a671de0f50e
 old_id: 11
 ---
 
