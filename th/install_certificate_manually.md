@@ -1,7 +1,6 @@
 ---
 title: "ลงใบ Certificate เอง"
 reference_version: e9d09b54391383cc05c872daeb34f543
-old_id: 12
 ---
 ถ้าหากว่ามีปัญหาจากการเชื่อมต่อ Server หรือว่า Switcher มีปัญหาเกี่ยวกับการลงใบรับรอง ลองอ่านได้จากที่นี่
 

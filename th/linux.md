@@ -1,7 +1,6 @@
 ---
 title: "วิธีการเชื่อมต่อไปยัง osu!lumilous (Linux)"
 reference_version: a7bffe77d41917e96274ade8e246a38d
-old_id: 14
 ---
 
 (ค่อนข้าง Advance ขอไม่แปลละกันนะครับ)
