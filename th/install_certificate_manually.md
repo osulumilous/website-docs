@@ -5,7 +5,7 @@ reference_version: e9d09b54391383cc05c872daeb34f543
 ถ้าหากว่ามีปัญหาจากการเชื่อมต่อ Server หรือว่า Switcher มีปัญหาเกี่ยวกับการลงใบรับรอง ลองอ่านได้จากที่นี่
 
 ### Instructions
-- อย่างแรก โหลดใบรับรองจาก [ที่นี่](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
+- อย่างแรก โหลดใบรับรองจาก [ที่นี่](https://cdn.discordapp.com/attachments/685761830223872040/697367968589545512/cert.crt)
 - หลังจากนั้นเปิด **certificate.cer**
 - กด **Install certificate...**
 - กด **Next**
@@ -23,13 +23,13 @@ reference_version: e9d09b54391383cc05c872daeb34f543
 - ถ้าหากว่าคุณได้ **"..."** และถ้าหากว่าไม่ได้เชื่อมต่อไปยัง osu!lumilous ปิดหน้าต่างการตรวจสอบแล้วกดที่ **สลับไปยังเซิพเวอร์ osu!lumilous** แล้วลองอีกครั้ง  
 
 ### ทุกอย่างมีปัญหา?
-คุณลองลบใบรับรองของ Ripple แล้วลองลงใบรับรองขึ้นมาใหม่โดยติดตามจากข้างล่างนี้:
+คุณลองลบใบรับรองของ *ppy.sh แล้วลองลงใบรับรองขึ้นมาใหม่โดยติดตามจากข้างล่างนี้:
 
 - กด **Win+R**  
 - พิมพ์ `mmc certmgr.msc` ใน run แล้วกด **enter** เพื่อเปิด Certificate Manager  
-- เลือก **Trusted root certification authorities** ทางซ้าย
+- เลือก **Intermediate Certification Authorites** ทางซ้าย
 - เลือก **Certificates** ทางขวา
-- คุณจะเห็น **[Ripple](http://y.zxq.co/bbyxev.png)** และ **\*.ppy.sh** จากใน list แล้ว **คลิกขวา** แล้วกด **Delete**  
+- คุณจะเห็น **[*ppy.sh](https://i.imgur.com/EL6jLZC.png)** จากใน list แล้ว **คลิกขวา** แล้วกด **Delete**  
 - เลือก all the positive options (Ok/Yes etc)  
 - เปิด Switcher ใหม่แล้วกด **ตรวจสอบ** แล้วเลือก **ติดตั้งใบรับรอง** หลังจากนั้นกด **Yes**  
 - กด **Test connection** แล้วจะเห็นคำว่า "ผ่าน" สำหรับทุก Domain  

@@ -3,7 +3,7 @@ title: "วิธีการเชื่อมต่อไปยัง osu!lumi
 reference_version: 4ca93a2ad6fb93512dd3c145314de23d
 ---
 - [สมัคร](https://osu.lumilous.pw/register) บัญชีก่อน  
-- โหลด [osu!lumilous server switcher](https://osu.lumilous.pw/static/switcher.zip) มาลงในเครื่อง
+- โหลด [osu!lumilous server switcher](https://osu.lumilous.pw/static/LumilousSw.exe) มาลงในเครื่อง
 - **แตกไฟล์** ที่โดนบีบอัดไปไว้ที่ไหนก็ได้ที่ "จำได้"  
 - **ปิด Antivirus ด้วยนะ** (ปัญหาแม่งเยอะ)  
 
